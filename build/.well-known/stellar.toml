@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GDIJ3B2U7FZGFKFQHKWIEM5NAC7USG2RNG34W47FISAC7CKWN4YFCVZL"
+"GD2XPIMPSHTKLSFNYJV5GNCQZUWVWA46OXAKZ4SCQCZ5C3NGQQ7BLUVX"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="ChihuaToken"
-ORG_TWITTER="@ChihuaToken"
-ORG_LOGO="https://i.ibb.co/558h7nh/chihua.jpg"
-ORG_OFFICIAL_EMAIL="ChihuaToken@tutanota.com"
+ORG_NAME="MIOTA"
+ORG_TWITTER="@MIOTA"
+ORG_LOGO="https://i.ibb.co/j5t27QH/ur-pin-large-front-square-600x600-u1.jpg"
+ORG_OFFICIAL_EMAIL="MIOTA@tutanota.com"
 
 
 [[CURRENCIES]]
-code="ChihuaToken"
-issuer="GDIJ3B2U7FZGFKFQHKWIEM5NAC7USG2RNG34W47FISAC7CKWN4YFCVZL"
+code="MIOTA"
+issuer="GD2XPIMPSHTKLSFNYJV5GNCQZUWVWA46OXAKZ4SCQCZ5C3NGQQ7BLUVX"
 anchor_asset="false"
-name="Stellar Chihua Token"
-desc="Stellar Chihua Token [ChihuaToken], Chihua Token is a community answer to Doge Coin, Shiba Inu and other dog meme coins. Chihua token did a fair launch, everyone including founders bought tokens on Uniswap. Chihua Token is 100% rug pull proof, as 51% of the total supply got burned, 48% was put into Uniswap liquidity and got also burned (all proofs on the website) and only 1% of the supply is available for marketing and future development. Chihua is out of the community and for the community. "
-conditions="There will only ever be 10.000.00 ChihuaToken tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/558h7nh/chihua.jpg"
+name="IOTA"
+desc="IOTA [MIOTA], IOTA is a distributed ledger with one big difference: it isn’t actually a blockchain. Instead, its proprietary technology is known as Tangle, a system of nodes that confirm transactions. The foundation behind this platform says this offers far greater speeds than conventional blockchains — and an ideal footprint for the ever-expanding Internet of Things ecosystem."
+conditions="There will only ever be 10.000.00 IOTA tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/j5t27QH/ur-pin-large-front-square-600x600-u1.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#ChihuaToken was issued using the open and inclusive Stellar blockchain network.
+#MIOTA was issued using the open and inclusive Stellar blockchain network.
